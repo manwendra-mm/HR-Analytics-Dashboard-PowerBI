@@ -1,7 +1,7 @@
 # HR Analytics Dashboard using PowerBI
 
 Preview of the Dashboard:
-![alt text](image.png)
+![alt text](dashboard-ss-1.png)
 
 
 ## 📊 Project Overview
